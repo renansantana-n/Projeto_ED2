@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1579381703 source:c:\users\renan\desktop\projeto_aed2 - arvn\projeto_aed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"arvn.h"
+
+1579387476 source:c:\users\renan\desktop\projeto_aed2 - arvn\projeto_aed2\arvn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"arvn.h"
+	<windows.h>
+
+1579300288 c:\users\renan\desktop\projeto_aed2 - arvn\projeto_aed2\arvn.h
+
+1579287303 c:\users\renan\desktop\projeto_aed2 - arvn\projeto_aed2\menu.h
+
+1579387558 source:c:\users\renan\desktop\projeto_aed2 - arvn\projeto_aed2\menu.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	"menu.h"
+
+1579387476 source:c:\users\renan\desktop\projeto_aed2\arvn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"arvn.h"
+	<windows.h>
+
+1579300288 c:\users\renan\desktop\projeto_aed2\arvn.h
+
+1579387558 source:c:\users\renan\desktop\projeto_aed2\menu.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	"menu.h"
+
+1579287303 c:\users\renan\desktop\projeto_aed2\menu.h
+
+1579638068 source:c:\users\renan\desktop\projeto_final(completo)\projeto_aed2\arvn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"arvn.h"
+
+1579628133 c:\users\renan\desktop\projeto_final(completo)\projeto_aed2\arvn.h
+
+1579628242 source:c:\users\renan\desktop\projeto_final(completo)\projeto_aed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"arvn.h"
+	"depart.h"
+
+1579617318 c:\users\renan\desktop\projeto_final(completo)\projeto_aed2\menu.h
+
+1579634586 source:c:\users\renan\desktop\projeto_final(completo)\projeto_aed2\menu.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
+1579575568 c:\users\renan\desktop\projeto_final(completo)\projeto_aed2\depart.h
+
+1579895935 source:c:\users\renan\desktop\renan santana - ed2\projeto_aed2\arvn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"arvn.h"
+
+1579628133 c:\users\renan\desktop\renan santana - ed2\projeto_aed2\arvn.h
+
+1579628242 source:c:\users\renan\desktop\renan santana - ed2\projeto_aed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"menu.h"
+	"arvn.h"
+	"depart.h"
+
+1579920739 c:\users\renan\desktop\renan santana - ed2\projeto_aed2\menu.h
+
+1579575568 c:\users\renan\desktop\renan santana - ed2\projeto_aed2\depart.h
+
+1579920881 source:c:\users\renan\desktop\renan santana - ed2\projeto_aed2\menu.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
